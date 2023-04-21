@@ -1,2 +1,2 @@
 # Dockerfile
-example
+An example
